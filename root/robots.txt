@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /donation/
+Sitemap: https://Envy-95.github.io/seminar-site/sitemap.xml
